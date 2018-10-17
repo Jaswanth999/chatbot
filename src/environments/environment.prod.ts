@@ -2,6 +2,6 @@ export const environment = {
   production: true,
 
   dialogflow:{
-  	chatbot: '71454c2b0f4f4e77b5d627d86dcfe4c7'
+  	chatbot: '19b6f67a91ff41c7a44e7b9982579bc0'
   }
 };
